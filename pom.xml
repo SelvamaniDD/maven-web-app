@@ -32,7 +32,7 @@
         <servlet.version>4.0.1</servlet.version>
 
         <!-- SonarQube Configuration -->
-        <sonar.host.url>http://65.2.145.18:9000</sonar.host.url>
+        <sonar.host.url>http://3.110.110.118:9000</sonar.host.url>
         <sonar.login>squ_104f7544f35d7e73a73c5baa8d7a3827ea134343</sonar.login>
         <sonar.projectKey>maven-web-application</sonar.projectKey>
         <sonar.projectName>Maven Web Application</sonar.projectName>
